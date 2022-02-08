@@ -13,3 +13,6 @@ Lors de l'analyse technique en trading il est judicieux de repérer cette bougie
   
   ![image](image/3.png)
 
+* Quand un chandelier est rouge ça veut qu'il y a une base:
+  
+  ![image](image/4.png)
