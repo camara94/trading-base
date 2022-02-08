@@ -27,3 +27,7 @@ Lors de l'analyse technique en trading il est judicieux de repérer cette bougie
 * **Fermeture**: les marchés ont cloturé à cet androit là.
 * **Ombre**: entre le moment où les marchés ont ouvert et ou les marchés ont fermé l'évolution totale de cet indice sur cette période.
   C'est à dire le movement le plus haut et le plus bas de l'action durant cette période.
+
+  ## Exemple de Chandelier
+
+  ![image](image/6.png)
