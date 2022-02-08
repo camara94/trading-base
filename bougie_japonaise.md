@@ -17,6 +17,10 @@ Lors de l'analyse technique en trading il est judicieux de repérer cette bougie
   
   ![image](image/4.png)
 
+* Quand un chandelier est barre ça veut que les actions sont restées constantes:
+  
+  ![image](image/5.png)
+
   ## Caractéristique d'un Chandelier
 
 * **Ouverture**: les marchés ont commencé à cet androit là.
