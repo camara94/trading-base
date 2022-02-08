@@ -47,3 +47,7 @@ Pour cela, on va apprendre à lire les graphiques:
   
 ![image](image/1.png)
 
+## Quelques Gargons
+* bougie japonaise
+* analyse technique
+* monnaie management
