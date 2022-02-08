@@ -51,3 +51,8 @@ Pour cela, on va apprendre à lire les graphiques:
 * bougie japonaise
 * analyse technique
 * monnaie management
+  
+## Technique d'apprentissage
+Si on est débutant, ce qu'il faut c'est d'abord aller apprendre: 
+* à faire une analyse technique
+* à mettre en place une strategie
