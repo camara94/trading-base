@@ -27,4 +27,7 @@ Le trading le metier d'avenir
 * gros potentiel financier
 * liberté géographique
 
-
+## Grosses Places Boursières
+* L'Europe
+* L'Asie
+* L'Amérique
