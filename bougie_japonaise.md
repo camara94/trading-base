@@ -16,3 +16,10 @@ Lors de l'analyse technique en trading il est judicieux de repérer cette bougie
 * Quand un chandelier est rouge ça veut qu'il y a une base:
   
   ![image](image/4.png)
+
+  ## Caractéristique d'un Chandelier
+
+* **Ouverture**: les marchés ont commencé à cet androit là.
+* **Fermeture**: les marchés ont cloturé à cet androit là.
+* **Ombre**: entre le moment où les marchés ont ouvert et ou les marchés ont fermé l'évolution totale de cet indice sur cette période.
+  C'est à dire le movement le plus haut et le plus bas de l'action durant cette période.
