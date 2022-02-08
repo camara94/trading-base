@@ -28,6 +28,6 @@ Le trading le metier d'avenir
 * liberté géographique
 
 ## Grosses Places Boursières
-* L'Europe
-* L'Asie
-* L'Amérique
+* L'Europe (session européen le matin)
+* L'Amérique ( Après midi la session américaine )
+* L'Asie (la nuit avec la session asiatique)
