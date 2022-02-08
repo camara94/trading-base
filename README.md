@@ -31,3 +31,10 @@ Le trading le metier d'avenir
 * L'Europe (session européen le matin)
 * L'Amérique ( Après midi la session américaine )
 * L'Asie (la nuit avec la session asiatique)
+* Avec les cripto-monnaie, on peut travailler 7/7
+
+## Inconvenient du Trading
+* Métier stressant
+* Métier risqué
+* Longue période de formation(12-24 mois)
+* Taux d'échec élevé(80%)
