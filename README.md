@@ -38,3 +38,12 @@ Le trading le metier d'avenir
 * Métier risqué
 * Longue période de formation(12-24 mois)
 * Taux d'échec élevé(80%)
+
+## Comment Gagner de l'Argent en Trading
+Pour cela, on va apprendre à lire les graphiques:
+* qu'est ce qu'une bougie
+* qu'elle est sa durée
+* la différence entre un point d'achat et un point où on revent s'appelle pipe
+  
+![image](image/1.png)
+
