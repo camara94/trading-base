@@ -16,3 +16,15 @@ Le trading le metier d'avenir
 * Les matières premières( cacao, sucre, coton, ... )
 * Les metaux précieux( or, diamant, argent)
 
+## Les Avantages du Trading
+
+* Pas de création de produit
+* Pas de recherche de client
+* Pas besoin de pub et de com
+* besoin d'une plateforme comme MT4
+* besoin d'un capital (100 EUR)
+* on peut gagner 5/7 24/24
+* gros potentiel financier
+* liberté géographique
+
+
